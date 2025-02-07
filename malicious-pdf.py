@@ -509,7 +509,7 @@ def create_malpdf4(filename, host):
 1 0 obj <<>>
 stream
 <?xml version="1.0" ?>
-<?xml-stylesheet href="\\\\''' + host + '''\whatever.xslt" type="text/xsl" ?>
+<?xml-stylesheet href="\\\\''' + host + '''\\whatever.xslt" type="text/xsl" ?>
 endstream
 endobj
 trailer <<
